@@ -973,6 +973,7 @@ algorithms, knowledgebase and AI technology.
 * [SmallSEOTools](https://smallseotools.com)
 * [Squatm3gator](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
 * [StatsCrop](https://www.statscrop.com)
+* [SubAnalyzer](https://subanalyzer.com) - Free subdomain finder that also maps each host's open ports and takes a screenshot of what it serves. No account required.
 * [TinyScan](https://www.tiny-scan.com) - Another powerful URL scan tool that provides comprehensive information about any given URL. Get insights into IP address, location, screenshots, technology stack, performance metrics, and more.
 * [TracerouteVisualizer](https://kriztalz.sh/traceroute-visualizer/) - An online tool that displays your mtr / traceroute / flyingroutes output on a map for visual analysis.
 * [urlDNA](https://urldna.io/) -  Unleash website insights! urldna.io analyzes url, monitors brands and track phishing sites.
